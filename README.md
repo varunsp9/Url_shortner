@@ -1,2 +1,2 @@
 # Url_shortner
-URL Shortner Appliation
+URL Shortner Application
